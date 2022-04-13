@@ -47,7 +47,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
   position: relative;" scrolling="no"></iframe>
 
 <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
-
+<p>&nbsp;</p>
 <iframe src="/The-Surveilled-City/assets/num map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
