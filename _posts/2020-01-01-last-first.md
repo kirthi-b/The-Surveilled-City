@@ -45,7 +45,7 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
-<img src="/The-Surveilled-City/images/sample_image.png)" alt="description of image" class="full-img">
+<img src="/The-Surveilled-City/images/sample_image.png" alt="description of image" class="full-img">
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
 ![description of image](/The-Surveilled-City/images/sample_image.png)
