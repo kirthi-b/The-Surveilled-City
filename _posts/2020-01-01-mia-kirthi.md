@@ -83,6 +83,5 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 ### Control Surveillance&mdash; not no surveillance  
 <p><span>Though surveillance technologies and data extraction can be extremely dangerous, it would be an oversight not to address their positive impacts and capacity to improve city life and safety. Surveillance cameras can keep an eye out for crime in public spaces and hold those involved accountable. In criminal investigations, video footage serves as extremely valuable&nbsp; evidence that helps build and strengthen cases. Data collected and analysis about our cities can help inform service improvements and make systems and processes much more time, money, and energy efficient.&nbsp;</span></p>
 <p><span>Surveillance technologies can be effectively utilized to serve the public good. We are not saying no surveillance, we are saying control surveillance. When George Floyd was being killed, the police officer was being surveilled by Darnella Frazier, the woman who video recorded the officer. When there is an abuse of power, surveillance technologies also have the capacity to hold abusers accountable.</span></p>
-<p>&nbsp;</p>
 
 ### Planning Implications  
