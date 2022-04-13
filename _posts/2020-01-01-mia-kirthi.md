@@ -24,65 +24,67 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 
 #### Technologies used by Police:  
+<p><span><strong>Cell Site Simulator</strong></span></p>
 <ul>
-    <li><span><strong>Cell Site Simulator</strong></span>
-        <ul>
-            <li><span>Cell Site Simulators, more commonly known as &ldquo;Stringrays&rdquo; or&nbsp;international mobile subscriber identity-catchers (&nbsp;IMSI catchers), are utilized by police without warrants to eavesdrop and intercept SMS messages, cell phone calls, and other mobile traffic. Cell Site Simulators trick phones to connect to them by pretending to be a traditional cell-phone tower. Some countries such as Germany strictly regulate Cell Site Simulator due to civil privacy and liberty concerns.&nbsp;</span></li>
-        </ul>
-    </li>
+    <li><span>Cell Site Simulators, more commonly known as &ldquo;Stringrays&rdquo; or&nbsp;international mobile subscriber identity-catchers (&nbsp;IMSI catchers), are utilized by police without warrants to eavesdrop and intercept SMS messages, cell phone calls, and other mobile traffic. Cell Site Simulators trick phones to connect to them by pretending to be a traditional cell-phone tower. Some countries such as Germany strictly regulate Cell Site Simulator due to civil privacy and liberty concerns.&nbsp;</span></li>
 </ul>
+<p><span><strong>Drones</strong></span></p>
 <ul>
-    <li><span><strong>Drones</strong></span>
-        <ul>
-            <li><span>Drones, also known as Unmanned Aerial Vehicles, are aircrafts controlled remotely or automatically without anyone on board. Using sensors and Global Positioning Software (GPS), drones navigate the skies while capturing highly precise data. At the base level, drones capture high-definition photo and video footage as well as precise geo-located data. Drones adopted by law enforcement agencies are additionally equipped with sophisticated data extraction and surveillance technologies that are capable of detecting landscape topography data, collecting license plate information, intercepting cell phone calls, and reading biometric data for facial recognition.</span></li>
-        </ul>
-    </li>
-    <li><span><strong>Body Cameras</strong></span>
-        <ul>
-            <li><span>Body cameras are small cameras clipped onto the uniform of a police officer&rsquo;s chest or worn as a headset. Data collected from police body cameras include video and audio footage, time stamps of incidents with the public, and are often equipped with bluetooth and live-streaming software, facial recognition. Body cameras are a double edged sword&mdash;serving as a both public accountability tool and a surveillance strategy at once.&nbsp;</span></li>
-        </ul>
-    </li>
-    <li><span><strong>CCTV&rsquo;s + Traffic Cams</strong></span>
-        <ul>
-            <li><span>Live, high-speed traffic video footage from cameras mounted on street intersection infrastructure. Footage includes location, timestamp, automated license plate reader (ALPR) software, and facial recognition software.</span></li>
-        </ul>
-    </li>
+    <li><span>Drones, also known as Unmanned Aerial Vehicles, are aircrafts controlled remotely or automatically without anyone on board. Using sensors and Global Positioning Software (GPS), drones navigate the skies while capturing highly precise data. At the base level, drones capture high-definition photo and video footage as well as precise geo-located data. Drones adopted by law enforcement agencies are additionally equipped with sophisticated data extraction and surveillance technologies that are capable of detecting landscape topography data, collecting license plate information, intercepting cell phone calls, and reading biometric data for facial recognition.</span><strong></strong></li>
 </ul>
+<p><span><strong>Body Cameras</strong></span></p>
 <ul>
-    <li><span><strong>Home Cams</strong></span>
-        <ul>
-            <li><span>Private companies that provide security camera surveillance, often in the front entryway area of a person&rsquo;s home. Law enforcement have been requesting civilians to share their private footage with public police departments in order to further criminal investigative cases. Home cams are a special case of law enforcement using non-government owned surveillance technology.</span></li>
-        </ul>
-    </li>
+    <li><span>Body cameras are small cameras clipped onto the uniform of a police officer&rsquo;s chest or worn as a headset. Data collected from police body cameras include video and audio footage, time stamps of incidents with the public, and are often equipped with bluetooth and live-streaming software, facial recognition. Body cameras are a double edged sword&mdash;serving as a both public accountability tool and a surveillance strategy at once.&nbsp;</span></li>
 </ul>
+<p><span><strong>CCTV&rsquo;s + Traffic Cams</strong></span></p>
 <ul>
-    <li><span><strong>Facial Recognition</strong></span>
-        <ul>
-            <li><span>Facial recognition technology matches an individual's identity using software that compares photos, videos, or in real-time facial biometric data. Facial recognition software is often connected to surveillance cameras distributed throughout smart cities, identifying and tracking individuals as they move throughout the city.</span></li>
-        </ul>
-    </li>
-    <li><span><strong>Predictive Policing (Preemptive, Proactive, AI)</strong></span>
-        <ul>
-            <li><span>Predictive policing is an analysis of crime-related data and software used by police departments to preemptively decide which groups of people and which&nbsp; neighborhoods should be given more police presence. Large sets of data are analyzed with machine learning and artificial intelligence algorithms.</span></li>
-        </ul>
-    </li>
-    <li><span><strong>Video Analytics</strong></span>
-        <ul>
-            <li><span>Computer software used in combination with video footage from surveillance cameras to analyze information such as facial identification, movement patterns, etc.</span></li>
-        </ul>
-    </li>
+    <li><span>Live, high-speed traffic video footage from cameras mounted on street intersection infrastructure. Footage includes location, timestamp, automated license plate reader (ALPR) software, and facial recognition software.</span></li>
+</ul>
+<p><span><strong>Home Cams</strong></span></p>
+<ul>
+    <li><span>Private companies that provide security camera surveillance, often in the front entryway area of a person&rsquo;s home. Law enforcement have been requesting civilians to share their private footage with public police departments in order to further criminal investigative cases. Home cams are a special case of law enforcement using non-government owned surveillance technology.</span></li>
+</ul>
+<p><span><strong>Facial Recognition</strong></span></p>
+<ul>
+    <li><span>Facial recognition technology matches an individual's identity using software that compares photos, videos, or in real-time facial biometric data. Facial recognition software is often connected to surveillance cameras distributed throughout smart cities, identifying and tracking individuals as they move throughout the city.</span></li>
+</ul>
+<p><span><strong>Predictive Policing (Preemptive, Proactive, AI)</strong></span></p>
+<ul>
+    <li><span>Predictive policing is an analysis of crime-related data and software used by police departments to preemptively decide which groups of people and which&nbsp; neighborhoods should be given more police presence. Large sets of data are analyzed with machine learning and artificial intelligence algorithms.</span></li>
+</ul>
+<p><span><strong>Video Analytics</strong></span></p>
+<ul>
+    <li><span>Computer software used in combination with video footage from surveillance cameras to analyze information such as facial identification, movement patterns, etc.</span></li>
 </ul>
 #### Technologies employed by Agencies in the US and where they come from  
+
+<iframe src="/The-Surveilled-City/assets/vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:1000px;
+  position: relative;" scrolling="no"></iframe>
+
+<iframe src="/The-Surveilled-City/assets/num map.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:1000px;
+  position: relative;" scrolling="no"></iframe>
+
 <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
-<p><span><strong>Implications of International Firms and Data:</strong></span></p>
+##### Implications of International Firms and Data:
 <p><span><strong>Drones and China</strong></span></p>
 <p><span>Drone-generated data also enables national security threats. DJI, the Chinese tech company responsible for manufacturing a majority of the US law enforcement agencies&rsquo; drones, was recently added to the US Department of Treasury&rsquo;s investment blacklist after information was uncovered regarding DJI&rsquo;s role in surveilling the Uyghur Muslim population in the Xinjiang Region&rsquo;s concentration camps.&nbsp;Cyber security researchers have since found the data collected from DJI aligns with Chinese government surveillance practices, which require drones to be linked to a user&rsquo;s identity,&rdquo; giving the Chinese government access to images, videos, biometric data, location data, and all other data generated by drones.&nbsp;The US federal government has largely stopped using drones manufactured by Chinese companies, although state and local-level enforcement continues to deploy them. DJI&rsquo;s case reflects the increasing security risk of international data leaks resulting from the surveillance technology sector in the US&mdash;even if a technology gets banned, the data already generated from them persists, likely in intelligence offices abroad that closely monitor the data<strong>.</strong></span></p>
 <p><span><strong>Facial Recognition and France</strong></span></p>
 #### Types of Surveillance Technologies by Agency  
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+
+<iframe src="/The-Surveilled-City/assets/tech map.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:1000px;
+  position: relative;" scrolling="no"></iframe>
+
+
 #### Regulations  
 <p><span>At the current status quo, federal policy lacks a framework to regulate how governmental agencies may use surveillance technologies and data. Although aerial surveillance is almost ubiquitously used by law enforcement across the nation, Officials do not need to obtain search warrants when it comes to many surveillance operations such as flying drones over civilians.</span></p>
 <p><span>Stored Communications Act of 1986: federal law that prohibits an &ldquo;electronic communications service provider&rdquo; from &ldquo;sharing users communication and account records, subject to a list of exceptions.&rdquo; There's an exception for law enforcement, but none for defendants. Police can protect themselves, but individuals cant.</span></p>
