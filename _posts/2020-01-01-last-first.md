@@ -18,6 +18,12 @@ To present and turn in your final projects for Conflict Urbanism: Puerto Rico No
 
 [This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
 
+<iframe src="/The-Surveilled-City/assets/tech map.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:1000px;
+  position: relative;" scrolling="no"></iframe>
+
 #### Please use level 4 headings for major section divisions  
 (make sure to put two spaces after the end of the heading)
 
