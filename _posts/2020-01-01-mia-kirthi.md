@@ -6,7 +6,7 @@ title:  "Mia"
 author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 ---
 
-<h4 style="text-align: center;"><span style="font-size: 24pt; font-family: 'andale mono', times;"><strong>Street-Level Surveillance: An Urban Panopticon</strong></span></h4>
+<h2><span style="font-size: 24pt; font-family: 'andale mono', times;"><strong>Street-Level Surveillance: An Urban Panopticon</strong></span></h2>
 <p>&nbsp;</p>
 <h3><span style="font-family: 'andale mono', times;"><span style="font-size: 18pt; color: #ba372a;"><strong>What is an Urban Panopticon / a surveillance city?</strong></span><strong><br /></strong></span></h3>
 <p><span style="font-family: 'andale mono', times;"><span style="font-weight: 400;">A panopticon is a circular prison where a guard is stationed at the center of the building with the ability to see all inmates in cells along the building's circumference. However, the inmates cannot see the guard, obfuscating the known and creating a constant paranoia and sense of always being watched. The indiscriminate use of street-level surveillance technologies in public and private urban spaces can be likened to the surveillance structure of a panopticon. </span><i><span style="font-weight: 400;">Today's smart cities have become a covert tool for increasing surveillance, corporate profits, and social control.&nbsp;</span></i></span></p>
