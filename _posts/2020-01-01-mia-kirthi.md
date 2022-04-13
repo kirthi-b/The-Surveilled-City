@@ -58,24 +58,23 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 </ul>
 #### Technologies employed by Agencies in the US and where they come from  
 
-<p>
+<br>
     <iframe src="/The-Surveilled-City/assets/vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:1000px;
   position: relative;" scrolling="no"></iframe>
-<p>
-  
+<br>
 
 <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
 
-<p>
-    <iframe src="/The-Surveilled-City/assets/num map.html" style="border-width: 0px;left: 50%;right: 50%;
+
+    <br><iframe src="/The-Surveilled-City/assets/num map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:500px;
-  position: relative;" scrolling="no"></iframe>
- <p> 
+  position: relative;" scrolling="no"></iframe><br>
+
   
 #### Implications of International Firms and Data:  
 <p><span><strong>Drones and China</strong></span></p>
@@ -83,13 +82,13 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p><span><strong>Facial Recognition and France</strong></span></p>
 #### Types of Surveillance Technologies by Agency  
 
-<p>
-<iframe src="/The-Surveilled-City/assets/tech map.html" style="border-width: 0px;left: 50%;right: 50%;
+
+<br><iframe src="/The-Surveilled-City/assets/tech map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:500px;
-  position: relative;" scrolling="no"></iframe>
-<p>  
+  position: relative;" scrolling="no"></iframe><br>
+
   
 #### Regulations  
 <p><span>At the current status quo, federal policy lacks a framework to regulate how governmental agencies may use surveillance technologies and data. Although aerial surveillance is almost ubiquitously used by law enforcement across the nation, Officials do not need to obtain search warrants when it comes to many surveillance operations such as flying drones over civilians.</span></p>
