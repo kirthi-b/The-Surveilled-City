@@ -24,7 +24,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 
 ### Technologies used by Police:  
-<p><span style="font-family: 'andale mono', times;"><strong>Cell Site Simulator </strong></span></p>
+<p><span><strong>Cell Site Simulator </strong></span></p>
 <p><span style="font-family: 'andale mono', times;">Cell Site Simulators, more commonly known as &ldquo;Stringrays&rdquo; or international mobile subscriber identity-catchers ( IMSI catchers), are utilized by police without warrants to eavesdrop and intercept SMS messages, cell phone calls, and other mobile traffic. Cell Site Simulators trick phones to connect to them by pretending to be a traditional cell-phone tower. Some countries such as Germany strictly regulate Cell Site Simulator due to civil privacy and liberty concerns. </span></p>
 <p><span style="font-family: 'andale mono', times;"><strong>Drones </strong></span></p>
 <p><span style="font-family: 'andale mono', times;">Drones, also known as Unmanned Aerial Vehicles, are aircrafts controlled remotely or automatically without anyone on board. Using sensors and Global Positioning Software (GPS), drones navigate the skies while capturing highly precise data. At the base level, drones capture high-definition photo and video footage as well as precise geo-located data. Drones adopted by law enforcement agencies are additionally equipped with sophisticated data extraction and surveillance technologies that are capable of detecting landscape topography data, collecting license plate information, intercepting cell phone calls, and reading biometric data for facial recognition. </span></p>
