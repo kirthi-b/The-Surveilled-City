@@ -8,11 +8,11 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
 
-<iframe src="/The-Surveilled-City/assets/vendor map.html" style="border-width: 0px;left: 50%;right: 50%
+<iframe src="/The-Surveilled-City/assets/vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:1000px;
-  position: relative;"></iframe>
+  position: relative;" scrolling="no"></iframe>
 
 To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
 
@@ -46,9 +46,6 @@ Use Author-Date parenthetical citations following Chicago Manual of Style conven
 To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
-
-<img src="/The-Surveilled-City/images/sample_image.png" alt="description of image" class="full-img">
-Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
 ![description of image](/The-Surveilled-City/images/sample_image.png)
 
