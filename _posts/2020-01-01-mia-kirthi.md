@@ -9,7 +9,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 ## What is an Urban Panopticon / a surveillance city?  
 <p><span>A panopticon is a circular prison where a guard is stationed at the center of the building with the ability to see all inmates in cells along the building's circumference. However, the inmates cannot see the guard, obfuscating the known and creating a constant paranoia and sense of always being watched. The indiscriminate use of street-level surveillance technologies in public and private urban spaces can be likened to the surveillance structure of a panopticon.&nbsp;<i>Today's smart cities have become a covert tool for increasing surveillance, corporate profits, and social control.&nbsp;</i></span></p>
 
-
+<p><img src="https://courseworks2.columbia.edu/users/543714/files/14105712/preview?verifier=8q94TgT3DEg0cDAyWUPaObFZRqJqhkH1VNn77CyK" alt="panopticon.jpg" /></p>
 
 #### What are we investigating? Why does this matter?  
 <p><span>This study aims to discuss the impact of data collection and surveillance technologies, their increasing privatization, and their inevitable consequences in power imbalances at urban governance level. Through this lens, this study will also attempt to demonstrate the spatial and political implications of employing privately-owned video surveillance and facial recognition technologies by law enforcement agencies. We will focus on three major US cities to study how the cities&rsquo; police forces are deploying privately owned surveillance technology. We hope to draw a connection between the role of private capitalist interests in public policing strategies, and investigate whether the decentralized nature of digital surveillance technologies correlates with urban spatial degradation.</span></p>
