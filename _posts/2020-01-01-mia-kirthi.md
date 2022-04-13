@@ -69,7 +69,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <iframe src="/The-Surveilled-City/assets/num map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  max-width: 100vw; height:1000px;
+  max-width: 100vw; height:500px;
   position: relative;" scrolling="no"></iframe>
 ##### Implications of International Firms and Data:
 <p><span><strong>Drones and China</strong></span></p>
@@ -81,7 +81,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <iframe src="/The-Surveilled-City/assets/tech map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  max-width: 100vw; height:1000px;
+  max-width: 100vw; height:500px;
   position: relative;" scrolling="no"></iframe>
 #### Regulations  
 <p><span>At the current status quo, federal policy lacks a framework to regulate how governmental agencies may use surveillance technologies and data. Although aerial surveillance is almost ubiquitously used by law enforcement across the nation, Officials do not need to obtain search warrants when it comes to many surveillance operations such as flying drones over civilians.</span></p>
