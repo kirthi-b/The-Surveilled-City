@@ -8,7 +8,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
 
-<iframe src="/The-Surveilled-City/assets/vendor map.html" style="border-width: 0px;left: 50%;
+<iframe src="/The-Surveilled-City/assets/vendor map.html" style="border-width: 0px;left: 50%;right: 50%
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:1000px;
