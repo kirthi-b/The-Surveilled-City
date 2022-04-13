@@ -12,6 +12,12 @@ This is a document that is written in markdown. What is markdown? It is a 'marku
   style="width:100vw; height:1000px;"
 ></iframe>
 
+<iframe src="/The-Surveilled-City/assets/vendor map.html" style="border-width: 0px;left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; 
+  position: relative;"></iframe>
+
 To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
 
 [This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
