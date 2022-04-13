@@ -9,7 +9,7 @@ This is a document that is written in markdown. What is markdown? It is a 'marku
 
 <iframe
   src="/The-Surveilled-City/assets/vendor map.html"
-  style="width:100%; height:300px;"
+  style="width:100%; height:1000px;"
 ></iframe>
 
 To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
