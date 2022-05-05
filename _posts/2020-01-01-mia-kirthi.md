@@ -6,9 +6,8 @@ title:  "Street-Level Surveillance: An Urban Panopticon"
 author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 ---
 
-## What is an Urban Panopticon / a surveillance city?  
+### The Surveillane City: Public Space into Police State 
 
-<p><img src="https://courseworks2.columbia.edu/users/543714/files/14105712/preview?verifier=8q94TgT3DEg0cDAyWUPaObFZRqJqhkH1VNn77CyK" alt="panopticon.jpg" /></p>
 
 <p><span>A panopticon is a circular prison where a guard is stationed at the center of the building with the ability to see all inmates in cells along the building's circumference. However, the inmates cannot see the guard, obfuscating the known and creating a constant paranoia and sense of always being watched. The indiscriminate use of street-level surveillance technologies in public and private urban spaces can be likened to the surveillance structure of a panopticon.&nbsp;<i>Today's smart cities have become a covert tool for increasing surveillance, corporate profits, and social control.&nbsp;</i></span></p>
 <p>&nbsp;</p>
